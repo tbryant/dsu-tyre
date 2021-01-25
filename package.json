@@ -1,0 +1,15 @@
+{
+  "name": "dsu-tyre",
+  "version": "1.0.0",
+  "description": "dsu server / cemuhook motion provider for UDP controller messages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Bryant",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "crc": "^3.8.0",
+    "node-gamepad": "tbryant/node-gamepad"
+  }
+}
